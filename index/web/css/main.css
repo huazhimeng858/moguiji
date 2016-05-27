@@ -1,0 +1,145 @@
+
+@font-face {font-family: "iconfont";
+    src: url('../fonts/iconfont.eot?t=1463122415'); /* IE9*/
+    src: url('../fonts/iconfont.eot?t=1463122415#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/iconfont.woff?t=1463122415') format('woff'), /* chrome, firefox */
+    url('../fonts/iconfont.ttf?t=1463122415') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+    url('../fonts/iconfont.svg?t=1463122415#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+    font-family:"iconfont" !important;
+    font-size:42px;
+    font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+}
+.icon-diagnostic-tool{font-size:48px;}
+.gengduo{font-size: 16px;}
+.author-icon{font-size: 30px;}
+.reference-gengduo{font-size: 12px;}
+
+.iconfont-img{margin-top:15px;margin-bottom: 30px;}
+.fusion-slider-container{
+    animation: fadeInUp 3s;
+    -moz-animation: fadeInUp 3s;
+    -webkit-animation: fadeInUp 3s;
+    -o-animation: fadeInUp 3s;
+}
+
+.fusion-slider-loading{
+    animation: fadeOut 2s;
+    -moz-animation: fadeOut 2s;
+    -webkit-animation: fadeOut 2s;
+    -o-animation: fadeOut 2s;
+}
+.fusion-slider-loading{opacity: 0;}
+
+/*@media only screen and  (min-width: 1201px){*/
+    /*.fusion-slider{height:600px;background-size: cover;}*/
+/*}*/
+/*@media only screen and  (max-width: 600px){*/
+    /*.fusion-slider{height:300px;background-size: auto 100%;}*/
+    /*.fusion-slider h1{font-weight: 100;}*/
+/*}*/
+/*@media only screen and (min-width: 601px) and (max-width: 1200px){*/
+    /*.fusion-slider{width:100%;height:0;padding-bottom: 50%;background-size: cover;}*/
+/*}*/
+
+/*!**!*/
+/*@media only screen and (max-width: 1200px) {*/
+    /*.fusion-slider h1{ font-size: 32px;margin-top: 110px;font-weight: 100;}*/
+    /*.fusion-slider h2{ font-size: 82px;margin-top: 10px;}*/
+    /*.fusion-slider-button{margin-top: 20px;}*/
+/*}*/
+/*@media only screen and (max-width: 1150px) {*/
+    /*.fusion-slider h1{ font-size: 32px;margin-top: 110px;font-weight: 100;}*/
+    /*.fusion-slider h2{ font-size: 84px;margin-top: 10px;}*/
+    /*.fusion-slider-button{margin-top: 20px;}*/
+/*}*/
+/*@media only screen and (max-width: 1100px) {*/
+    /*.fusion-slider h1{ font-size: 32px;margin-top: 90px;font-weight: 100;}*/
+    /*.fusion-slider h2{ font-size: 80px;margin-top: 10px;}*/
+    /*.fusion-slider-button{margin-top: 20px;}*/
+/*}*/
+/*@media only screen and (max-width: 1050px) {*/
+    /*.fusion-slider h1{ font-size: 32px;margin-top: 90px;font-weight: 100;}*/
+    /*.fusion-slider h2{ font-size: 76px;margin-top: 10px;}*/
+    /*.fusion-slider-button{margin-top: 20px;}*/
+/*}*/
+/*@media only screen and (max-width: 1000px) {*/
+    /*.fusion-slider h1{ font-size: 32px;margin-top: 90px;font-weight: 100;}*/
+    /*.fusion-slider h2{ font-size: 72px;margin-top: 10px;}*/
+    /*.fusion-slider-button{margin-top: 20px;}*/
+/*}*/
+/*@media only screen and (max-width: 950px) {*/
+    /*.fusion-slider h1{ font-size: 32px;margin-top: 90px;font-weight: 100;}*/
+    /*.fusion-slider h2{ font-size: 68px;margin-top: 10px;}*/
+    /*.fusion-slider-button{margin-top: 20px;}*/
+/*}*/
+/*@media only screen and (max-width: 900px) {*/
+    /*.fusion-slider h1{ font-size: 26px;margin-top: 90px;font-weight: 100;}*/
+    /*.fusion-slider h2{ font-size: 62px;margin-top: 10px;}*/
+    /*.fusion-slider-button{margin-top: 20px;}*/
+/*}*/
+/*@media only screen and (max-width: 850px) {*/
+    /*.fusion-slider h1{ font-size: 26px;margin-top: 90px;font-weight: 100;}*/
+    /*.fusion-slider h2{ font-size: 60px;margin-top: 10px;}*/
+    /*.fusion-slider-button{margin-top: 20px;}*/
+/*}*/
+/*@media only screen and (max-width: 800px) {*/
+    /*.fusion-slider h1{ font-size: 32px;margin-top: 50px;font-weight: 100;}*/
+    /*.fusion-slider h2{ font-size: 76px;margin-top: 10px;}*/
+    /*.fusion-slider-button{margin-top: 20px;}*/
+/*}*/
+/*@media only screen and (max-width: 750px) {*/
+    /*.fusion-slider h1{ font-size: 32px;margin-top: 40px;font-weight: 100;}*/
+    /*.fusion-slider h2{ font-size: 72px;margin-top: 10px;}*/
+    /*.fusion-slider-button{margin-top: 20px;}*/
+/*}*/
+/*@media only screen and (max-width: 700px) {*/
+    /*.fusion-slider h1{ font-size: 32px;margin-top: 30px;font-weight: 100;}*/
+    /*.fusion-slider h2{ font-size: 68px;margin-top: 10px;}*/
+    /*.fusion-slider-button{margin-top: 20px;}*/
+/*}*/
+/*@media only screen and (max-width: 650px) {*/
+    /*.fusion-slider h1{ font-size: 30px;margin-top: 30px;font-weight: 100;}*/
+    /*.fusion-slider h2{ font-size: 62px;margin-top: 10px;}*/
+    /*.fusion-slider-button{margin-top: 20px;}*/
+/*}*/
+/*@media only screen and (max-width: 600px) {*/
+    /*.fusion-slider h1{ font-size: 26px;margin-top: 30px;font-weight: 100;}*/
+    /*.fusion-slider h2{ font-size: 58px;margin-top: 10px;}*/
+    /*.fusion-slider-button{margin-top: 20px;}*/
+/*}*/
+/*@media only screen and (max-width: 550px) {*/
+    /*.fusion-slider h1{ font-size: 24px;margin-top: 40px;font-weight: 100;}*/
+    /*.fusion-slider h2{ font-size: 52px;margin-top: 10px;}*/
+    /*.fusion-slider-button{margin-top: 20px;}*/
+/*}*/
+/*@media only screen and (max-width: 500px) {*/
+    /*.fusion-slider h1{ font-size: 24px;margin-top: 50px;font-weight: 100;}*/
+    /*.fusion-slider h2{ font-size: 48px;margin-top: 10px;}*/
+    /*.fusion-slider-button{margin-top: 20px;}*/
+/*}*/
+/*@media only screen and (max-width: 450px) {*/
+    /*.fusion-slider h1{ font-size: 24px;margin-top: 50px;font-weight: 100;}*/
+    /*.fusion-slider h2{ font-size: 44px;margin-top: 10px;}*/
+    /*.fusion-slider-button{margin-top: 20px;}*/
+/*}*/
+/*@media only screen and (max-width: 400px) {*/
+    /*.fusion-slider h1{ font-size: 24px;margin-top: 70px;font-weight: 100;}*/
+    /*.fusion-slider h2{ font-size: 36px;margin-top: 10px;}*/
+    /*.fusion-slider-button{margin-top: 20px;}*/
+/*}*/
+/*@media only screen and (max-width: 350px) {*/
+    /*.fusion-slider h1{ font-size: 24px;margin-top: 70px;font-weight: 100;}*/
+    /*.fusion-slider h2{ font-size: 32px;margin-top: 10px;}*/
+    /*.fusion-slider-button{margin-top: 20px;}*/
+/*}*/
+/*@media only screen and (max-width: 300px) {*/
+    /*.fusion-slider h1{ font-size: 22px;margin-top: 70px;font-weight: 100;}*/
+    /*.fusion-slider h2{ font-size: 30px;margin-top: 10px;}*/
+    /*.fusion-slider-button{margin-top: 20px;}*/
+/*}*/

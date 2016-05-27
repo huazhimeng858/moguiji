@@ -1,0 +1,94 @@
+*{margin:0;padding:0;}
+body{font-family: 'Microsoft YaHei', Arial, Helvetica, sans-serif;}
+.fusion-position-text,.fusion-position-feature-item,.fusion-position-example-text,.company-name,.fusion-character-service-text,.fusion-character-service-item p,.fusion-footer-notice,.fusion-footer-notice a,.fusion-footer-notice,.fusion-footer-notice a{color:#747474;}
+a{text-decoration: none;}
+a:hover,a:link,a:active,a:visited{text-decoration: none!important;}
+/*header*/
+.fusion-header{padding:25px 0;border:0;}
+/*焦点图*/
+.fusion-slider{margin-top:100px;*margin-top:60px!important;background: url(../images/banner.png) center center;color:#fff;margin-bottom: 50px;position: relative;border:none;+margin-top:0px;overflow: hidden;}
+/*.fusion-slider h1{margin-top: 60px;}*/
+/*.fusion-slider h1{font-weight: 100;}*/
+/*.fusion-slider h2{font-weight: 200;*margin-bottom:30px;}*/
+.fusion-slider-button{margin-top: 20px;}
+.fusion-slider-loading{width:32px;height:32px;z-index: 10!important;position: absolute;top:50%;left:50%;opacity:1;-webkit-transition: opacity 2s;
+    -moz-transition: opacity 2s;
+    -ms-transition: opacity 2s;
+    -o-transition: opacity 2s;
+    transition: opacity 2s;}
+.fusion-slider-button{margin-top: 30px;}
+.fusion-slider-button a{color:#ebebeb;font-size: 12px;border-radius: 20px;width:100px;height:36px;border:1px solid #fff;line-height: 36px;display: inline-block;behavior: url(../PIE.htc);*margin-top:0;position:relative;}
+.fusion-slider-button a:hover{color:#fff;}
+
+.fusion-text{padding:50px 0;*padding-top:100px;}
+.fusion-position-container{margin:30px auto;*margin-top:10px; }
+.fusion-text-middle{font-size: 34px;line-height: 48px;margin-bottom: 30px;}
+.fusion-position-text{font-size: 15px;margin: 0 20px;line-height: 24px;font-weight: 100;}
+.fusion-position-text p{margin-top: 20px;}
+.icon-ok-img{color:#6aace0;}
+.fusion-position-feature{padding:5px 25px;}
+.fusion-position-feature h4{font-weight: bold;margin-bottom: 20px;}
+.icon-ok-img{margin-right: 10px;}
+.fusion-position-feature-item{font-size: 13px;margin-top: 10px;font-weight: 100;line-height: 25px;}
+
+.fusion-position-btn{width:134px;height:44px;border-radius: 22px;background-color:#6aace0;border:1px solid #fff;margin:40px 0 40px 70px; text-align: center;line-height: 44px;behavior: url(../PIE.htc);+margin-top:0;position:relative;}
+.fusion-position-btn:hover{background-color:#409acf;}
+.fusion-position-btn a{color:#fff!important;}
+.fusion-position-btn a:hover,.fusion-position-btn a:active,.fusion-position-btn a:visited{color:#fff!important;}
+
+.fusion-position-example{margin-bottom: 20px;}
+.fusion-position-example-text{background-color: #f6f6f6;padding:25px;font-style: italic;font-size: 15px;font-weight: 100;}
+.fusion-position-example-icon{height:0;width:0;border-width:10px;border-style: solid;border-color:#f6f6f6 transparent transparent transparent;margin-top: -10px;margin-left: 50px;}
+.fusion-reference-text{border:1px solid #8c8c8c;border-radius: 17px;width:108px;height:34px;line-height: 34px;color:#000;text-align: center;background-color: #f6f6f6;opacity: 0.5;font-size: 12px;behavior: url(../PIE.htc);margin-top: -25px;position:relative;}
+.fusion-reference-text a{color:#000; }
+.fusion-reference-text a:hover,.fusion-position-btn a:active,.fusion-position-btn a:visited{color:#000;}
+.fusion-reference-text:hover{opacity: 1;border:1px solid #000;}
+/*.fusion-reference-text a:hover,.fusion-reference-text a:active,.fusion-reference-text a:visited{border:1px solid #000;border-radius: 17px;width:108px;height:34px;line-height: 34px;color:#000;}*/
+.author{display: table;margin-bottom: 20px;}
+.company-name{font-weight: 100;display: table-cell;vertical-align: middle;line-height: 25px;}
+
+.fusion-service{padding-top:80px;}
+
+.fusion-character-service{padding:25px 0;}
+.fusion-character-service-h1{padding:15px 0;text-align: center;}
+.fusion-character-service-h1 h1{font-size: 34px;}
+.fusion-character-service-text{font-size: 15px;font-weight: 100;line-height: 25px;}
+.fusion-character-service-text p{margin-top: 20px;}
+
+.fusion-character-service-tool{text-align: center;padding: 40px 0;}
+.fusion-character-service-item{margin: 40px 0;}
+.fusion-character-service-item p{font-size: 15px;line-height: 30px;font-weight: 100;}
+
+.fusion-bottom{background-color: #6aace0;color:#fff;padding-top: 35px;margin-top: 50px;}
+.fusion-bottom h1{font-size: 34px;line-height: 48px;}
+.fusion-bottom-box{width:100%;margin-top: 30px;margin-bottom: 25px;}
+.fusion-bottom-btn{width:160px;height:60px;border-radius: 30px;border:2px solid #fff;background: transparent;line-height: 60px;margin-bottom: 35px;behavior: url(../PIE.htc);position:relative;color:#fff;}
+.fusion-bottom-btn a{height:30px;line-height:30px;font-size: 18px;color:#fff;}
+.fusion-bottom-btn a:hover,.fusion-bottom-btn a:active,.fusion-bottom-btn a:visited{color:#fff;}
+/*footer*/
+.fusion-footer{width:100%;background-color: #292a2c;font-size: 12px;line-height: 25px;}
+.fusion-footer-notice{padding: 20px 0;}
+.fusion-footer-notice a:hover,.fusion-footer-notice a:active,.fusion-footer-notice a:visited{color:#6aace0;}
+.bottom-mark{background-color: transparent!important;border: none!important;height:35px!important;}
+.back-to-top{width:50px;height:35px;background-color: #000;margin-right: 50px;opacity: 0.7;border-radius: 5px;text-align: center;padding-top: 10px;color:#fff;margin-top: 20px;}
+.back-to-top:hover{background-color: #64a9ca;}
+#back-to-top{display: none;}
+
+/***media***/
+.fusion-media{margin-top: 170px;}
+.fusion-media-content h1{font-size: 30px;font-weight: bold;}
+.fusion-media-text p{color:#747474;font-size: 15px;font-weight: 300;line-height: 28px;text-indent:2em;padding: 20px 0;}
+.fusion-media-video{border:1px dotted #d4d4d4;padding: 10px 0;}
+
+.fusion-media-contact{color:#747474;font-size: 14px;font-weight: 300;line-height: 44px;}
+.fusion-media-contact h2{font-weight: bold;border-bottom: 1px dotted #d4d4d4;padding-bottom: 10px;}
+.fusion-media-contact h4{font-weight: bold;margin-top: 30px;}
+
+
+.fusion-margin-top{margin-top: 200px;}
+
+.popover{max-width: 80%!important;text-align: center;}
+
+section{*display: inline-block!important;}
+.fusion-footer{*display: inline-block!important;}
+.fusion-know{margin:100px 0;}
