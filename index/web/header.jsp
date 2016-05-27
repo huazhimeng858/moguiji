@@ -31,7 +31,7 @@
                 <li><a class="page-scroll" href="index.jsp">首页</a></li>
                 <li><a href="#">热力图</a></li>
                 <li><a href="#">客服后台</a></li>
-                <li><a href="company.jsp">关于我们</a></li>
+                <li><a href="company-info.jsp">关于我们</a></li>
             </ul>
             <!-- END MAIN NAV LINKS -->
         </div>
