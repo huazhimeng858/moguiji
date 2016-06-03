@@ -1,6 +1,7 @@
-*{margin:0;padding:0;}
+*{margin:0;padding:0;border:none;}
 body{font-family: 'Microsoft YaHei', Arial, Helvetica, sans-serif!important;}
 .fusion-position-text,.fusion-position-feature-item,.fusion-position-example-text,.company-name,.fusion-character-service-text,.fusion-character-service-item p,.fusion-footer-notice,.fusion-footer-notice a,.fusion-footer-notice,.fusion-footer-notice a{color:#747474;}
+li{list-style:none;}
 a{text-decoration: none;}
 a:hover,a:link,a:active,a:visited{text-decoration: none!important;}
 /*header*/
@@ -86,6 +87,8 @@ a:hover,a:link,a:active,a:visited{text-decoration: none!important;}
 .fusion-media-contact{color:#747474;font-size: 14px;font-weight: 300;line-height: 44px;}
 .fusion-media-contact h2{font-weight: 500;border-bottom: 1px dotted #d4d4d4;padding-bottom: 10px;}
 .fusion-media-contact h4{font-weight: bold;margin-top: 30px;}
+
+.list-group-item{border:none!important;}
 
 
 .fusion-margin-top{margin-top: 200px;}

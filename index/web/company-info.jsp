@@ -28,13 +28,27 @@
 <section class="fusion-media clearfix">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12 fusion-media-content">
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 fusion-media-content">
                 <h1>关于墨轨迹</h1>
                 <video id="example_video_1" controls="controls" autoplay="autoplay" class="col-md-12 col-sm-12 col-xs-12 fusion-media-video">
                 <source src="media/墨轨迹宣传视频_起风了.mp4" type="video/mp4" style="width:100%;height:100%;">
-                <object type="application/x-shockwave-flash" data="http://player.youku.com/player.php/sid/XMTU4NDkxODEyOA==/v.swf" width="100%" height="50%">
-                    <param name="movie" value="http://player.youku.com/player.php/sid/XMTU4NDkxODEyOA==/v.swf">
-                </object>
+                    <object id="video1" width="100%" height="50%" border="0" classid="clsid:CFCDAA03-8BE4-11cf-B84B-0020AFBBCCFA">
+                        <param name="ShowDisplay" value="0">
+                        <param name="ShowControls" value="1">
+                        <param name="AutoStart" value="1">
+                        <param name="AutoRewind" value="0">
+                        <param name="PlayCount" value="0">
+                        <param name="Appearance" value="0">
+                        <param name="BorderStyle" value="0">
+                        <param name="MovieWindowHeight" value="240">
+                        <param name="MovieWindowWidth" value="320">
+                        <param name="FileName" value="墨轨迹宣传视频_起风了.mp4">
+                        <embed width="100%" height="50%" border="0" showdisplay="0" showcontrols="1" autostart="1" autorewind="0" playcount="0" moviewindowheight="240" moviewindowwidth="320" filename="墨轨迹宣传视频_起风了.mp4" src="https://xwportalvhdsw9wtrypwmp0m.blob.core.chinacloudapi.cn/asset-e251c6df-69e1-4fa4-a7c5-9a2693cd396b/%E5%A2%A8%E8%BD%A8%E8%BF%B9%E5%AE%A3%E4%BC%A0%E8%A7%86%E9%A2%91_%E8%B5%B7%E9%A3%8E%E4%BA%86.mp4?sv=2012-02-12&amp;sr=c&amp;si=e54dc9d4-4058-46ff-b493-f0964d79efac&amp;sig=Li9vFzOipdN4obng5ew7h4LCwg40HvURRgRutdxsYR4%3D&amp;st=2016-03-07T03:12:12Z&amp;se=2116-02-12T03:12:12Z">
+                        </embed>
+                    </object>
+                <%--<object type="application/x-shockwave-flash" data="http://player.youku.com/player.php/sid/XMTU4NDkxODEyOA==/v.swf" width="100%" height="50%">--%>
+                    <%--<param name="movie" value="http://player.youku.com/player.php/sid/XMTU4NDkxODEyOA==/v.swf">--%>
+                <%--</object>--%>
                     <%--<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="300"--%>
                             <%--codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" id="swf">--%>
                         <%--<object classid="clsid:22D6F312-B0F6-11D0-94AB-0080C74C7E95" id="MediaPlayer1" width="420" height="384">--%>
@@ -80,10 +94,29 @@
                 </div>
                 <video controls="controls" class="col-md-12 col-sm-12 col-xs-12 fusion-media-video">
                     <source src="media/哈利波特的圣诞泡妞神器720p.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
+                    <object id="video2" width="100%" height="50%" border="0" classid="clsid:CFCDAA03-8BE4-11cf-B84B-0020AFBBCCFA">
+                        <param name="ShowDisplay" value="0">
+                        <param name="ShowControls" value="1">
+                        <param name="AutoStart" value="1">
+                        <param name="AutoRewind" value="0">
+                        <param name="PlayCount" value="0">
+                        <param name="Appearance" value="0">
+                        <param name="BorderStyle" value="0">
+                        <param name="MovieWindowHeight" value="240">
+                        <param name="MovieWindowWidth" value="320">
+                        <param name="FileName" value="哈利波特的圣诞泡妞神器720p.mp4">
+                        <embed width="100%" height="50%" border="0" showdisplay="0" showcontrols="1" autostart="1" autorewind="0" playcount="0" moviewindowheight="240" moviewindowwidth="320" filename="哈利波特的圣诞泡妞神器720p.mp4" src="https://xwportalvhdsw9wtrypwmp0m.blob.core.chinacloudapi.cn/asset-d484f4ee-4dad-47a3-ae71-ab4b5e4e3694/%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E7%9A%84%E5%9C%A3%E8%AF%9E%E6%B3%A1%E5%A6%9E%E7%A5%9E%E5%99%A8720p.mp4?sv=2012-02-12&amp;sr=c&amp;si=829bffbd-bf5f-46b6-80bc-3b4d8279d8ed&amp;sig=zHQflGGHdXCzY9wesTlOxlQtQAoOfbYCD98i85crwYE%3D&amp;st=2016-03-07T06:56:00Z&amp;se=2116-02-12T06:56:00Z">
+                        </embed>
+                    </object>
                 </video>
             </div>
-            <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 fusion-media-right">
+            <div class="col-lg-5 col-md-3 col-sm-12 col-xs-12 fusion-media-right">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 fusion-media-contact">
+                    <h2>联系我们</h2>
+                    <h4>北京</h4>
+                    <label for="fusion-address"></label><span id="fusion-address">北京朝阳区朝外雅宝路12号华声国际大厦2层106室</span><br />
+                    <label for="fusion-iphone">联系电话:</label><span id="fusion-iphone">+86 010-5369 5932</span>
+                </div>
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 fusion-media-report">
                     <h2>媒体报道</h2>
                     <ul class="list-group">
@@ -95,12 +128,7 @@
                     </ul>
 
                 </div>
-                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 fusion-media-contact">
-                    <h2>联系我们</h2>
-                    <h4>北京</h4>
-                    <label for="fusion-address"></label><span id="fusion-address">北京朝阳区朝外雅宝路12号华声国际大厦2层106室</span><br />
-                    <label for="fusion-iphone">联系电话:</label><span id="fusion-iphone">+86 010-5369 5932</span>
-                </div>
+
             </div>
         </div>
 

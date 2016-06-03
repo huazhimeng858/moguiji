@@ -48,7 +48,7 @@
         <div class="col-lg-6 col-md-12 fusion-text text-center">
           <h1 class="fusion-text-middle"><strong>让你的应用<br /> &nbsp;&nbsp;&nbsp;&nbsp;通晓<span style="color: #6aacdf;">位置</span></strong></h1>
         </div>
-        <div class="col-lg-6 col-md-12 text-center"><img src="images/stepinside_iphone6_features3.png" alt="" class="img-responsive" alt="Responsive image"></div>
+        <div class="col-lg-5 col-md-12 text-center"><img src="images/stepinside_iphone6_features3.png" alt="" class="img-responsive" alt="Responsive image"></div>
       </div>
       <div class="row">
         <div class="col-lg-5 col-md-offset-1 col-md-10">
@@ -117,7 +117,7 @@
         <div class="fusion-bottom-box col-lg-12 col-md-12 text-center">
           <h1><strong>获取更多解决方案信息请与我们联系</strong></h1>
         </div>
-        <div class="fusion-bottom-box col-lg-12 col-md-12 text-center">
+        <div class="fusion-bottom-box col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
           <button class="fusion-bottom-btn"><a href=""><span>关于我们</span></a></button>
         </div>
       </div>
